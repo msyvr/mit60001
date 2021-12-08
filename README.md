@@ -10,4 +10,4 @@ notes and my code snippets going through mit 6.0001 computer science and program
 [palindrom checker - not recursive](https://gist.github.com/msyvr/a51e13595583923cbf9bf1ef848bde97)<br>
 [recursion - find the nth Fibonacci number](https://gist.github.com/msyvr/dbb5a263c225f9bdad23bd9a6d64441d)<br>
 [recursion - towers of hanoi](https://gist.github.com/msyvr/82608a53b867524079e295c8e8ec9aa7)<br>
-[disctionaries - item frequency of occurence](https://gist.github.com/msyvr/111c8d2ba31dc62f43e596fdd63e812d)<br>
+[dictionaries - item frequency of occurence](https://gist.github.com/msyvr/111c8d2ba31dc62f43e596fdd63e812d)<br>
