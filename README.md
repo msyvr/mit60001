@@ -1,7 +1,7 @@
 # python-mit60001
 notes and my code snippets going through mit 6.0001 computer science and programming in python
 
-## code exercises (gists, not repos)
+## links to gists for exercises
 [selection sort](https://gist.github.com/msyvr/2341352428fd43283ad760ecf5ec0cd0)<br>
 [bubble sort](https://gist.github.com/msyvr/36e0c365ca1fdc68bc58bcd60f0388f6)<br>
 [classes, subclasses, class variables](https://gist.github.com/msyvr/aa6575f8cb8a4bc31fad411339fa96b4)<br>
